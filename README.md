@@ -60,3 +60,33 @@ Albums – Contains details about music albums and their respective artists.
 Genres – Categorizes tracks into different music genres.
 
 Employees – Includes information about employees, primarily used for analyzing sales representatives.
+
+## Methodology
+1. Data Extraction & Transformation 
+  Imported data from chinook database into power Bi via ODMI connection
+
+  Cleaned and transformed  data using Power query to handle missing values,data inconsistencies & correct data types 
+  
+  Formatted date columns for time-based analysis.
+  
+  Created calculated columns and measures using DAX for deeper insights.
+
+2. Data Modeling 
+  Established relationships between tables for optimized performance and accurate data aggregation. 
+
+3. Key Performance Metrics & DAX Measures 
+  Using DAX, Developed important KPI such 
+  as; Total Sales, Total No of Purchases, Average Purchase Value and Customer Lifetime Value estimation 
+  
+  Created rankings and segmentations using DAX measures 
+  
+  Implemented Market Basket Analysis to find frequently purchased track combinations 
+
+4. Data Visualization & Reporting
+  Built interactive dashboards in Power BI to present key insights dynamically.
+  
+  Designed charts  to showcase customer segments, genre popularity, and sales trends.
+  
+  Created a final report summarizing findings and actionable recommendations.
+
+  ![Dashboard Overview](Overview.PNG)
