@@ -41,7 +41,7 @@ Disclaimer: All Datasets and reports do not represent any company, country, or i
 ## Data Overview
 Chinook database is structured as a relational database containing information about customers, invoices, tracks, artists, albums,genres and employees.
 
-![](Data Model.PNG)
+![](DM.PNG)
 ---
 Key Tables Used in This Analysis
 
