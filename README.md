@@ -63,6 +63,7 @@ Employees – Includes information about employees, primarily used for analyzing
 
 ## Methodology
 1. Data Extraction & Transformation 
+
   Imported data from chinook database into power Bi via ODMI connection
 
   Cleaned and transformed  data using Power query to handle missing values,data inconsistencies & correct data types 
@@ -72,9 +73,11 @@ Employees – Includes information about employees, primarily used for analyzing
   Created calculated columns and measures using DAX for deeper insights.
 
 2. Data Modeling 
+
   Established relationships between tables for optimized performance and accurate data aggregation. 
 
 3. Key Performance Metrics & DAX Measures 
+
   Using DAX, Developed important KPI such 
   as; Total Sales, Total No of Purchases, Average Purchase Value and Customer Lifetime Value estimation 
   
@@ -89,4 +92,42 @@ Employees – Includes information about employees, primarily used for analyzing
   
   Created a final report summarizing findings and actionable recommendations.
 
-  ![Dashboard Overview](Overview.PNG)
+  ![Sales Dashboard](Overview.PNG)
+
+## Insights
+
+- **_Top selling Artists_**
+
+The top 10 artists collectively generates the highest sales, amounting to $ and indicating strong customer preference for their music. Meanwhile, sales for lesser-known artists are significantly lower.
+
+- **_Customer Purchase pattern_**
+
+The customer purchases indicate high value customers have highest average purchase value and contribute to approximately 23% of total sales, as shown in the image below.
+
+- **_Genre popularity_**
+
+The top 4 most popular genres include Rock, Latin, Metal and Alternative & Punk where Rock has consistently remained the best selling genre and Alternative & punk experience seasonal spike in sales during holiday season.
+
+- **_Sales Trend_**
+
+Peak sales month occur in January with the highest sales recorded in 2010 at approximately $481 and lowest sales month occur in November of 2011. The analysis shows short term fluctuations but long term trend remains down downward indicating potential market challenges
+
+- **_Customer Lifetime Value_**
+
+A large percentage of customers have a low CLV, indicating that many customers have an average purchase value lower than the overall average 
+
+## Recommendations
+
+- Leverage top selling artists for special collaborations to sustain high sales while gradually expanding audience for other artists . And promote lesser known artists through targeted marketing campaigns such as offering discounts & exclusive promotions. 
+
+- Implement a loyalty or rewards program to encourage repeat purchases among high-value customers.
+
+- Leverage trending genres by bundling them with low performing genres for promotional campaigns to drive sales.
+
+- Maximize peak seasons through marketing. Analyze external factors that may influence seasonal spikes/drops and align market efforts accordingly.
+
+- Improve retention of low CLV customers by offering promotions & discounts to encourage repeat purchases.
+
+## Conclusion
+
+Through the integration of these strategic recommendations, Chinook music store can optimize sales,leverage on promotional campaigns, enhance customer engagement and retention. These actions will aid success and sustained growth in the digital media industry.
