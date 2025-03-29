@@ -42,14 +42,21 @@ Disclaimer: All Datasets and reports do not represent any company, country, or i
 Chinook database is structured as a relational database containing information about customers, invoices, tracks, artists, albums,genres and employees.
 
 ![](Data Model.PNG)
-
+---
 Key Tables Used in This Analysis
 
 Artists - Contains details about artists names, including artis Id.
+
 Customers – Contains details about customers, including their names, locations, and contact information.
+
 Invoices – Stores sales transactions, including invoice dates, total amounts, and customer IDs.
+
 InvoiceLine – Provides detailed records of individual track purchases within each invoice.
+
 Tracks – Includes metadata about each track, such as genre, album, and artist information.
+
 Albums – Contains details about music albums and their respective artists.
+
 Genres – Categorizes tracks into different music genres.
+
 Employees – Includes information about employees, primarily used for analyzing sales representatives.
