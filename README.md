@@ -1,1 +1,4 @@
-# Chinook Sales Analysis
+# CHINOOK SALES ANALYSIS
+
+![](icon.png)
+---
