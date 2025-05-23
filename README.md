@@ -104,7 +104,7 @@ The top 10 artists collectively generates the highest sales, amounting to $721.3
 
 The customer purchases indicate high value customers have highest average purchase value and contribute to approximately 23% of total sales, as shown in the image below.
 
-![Customer Purchase Segmentation](customer-segmentation-1.PNG)
+![Customer Purchase Segmentation](customer-segmentation.PNG)
 
 - **_Genre popularity_**
 
