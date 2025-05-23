@@ -15,7 +15,7 @@ Disclaimer: All Datasets and reports do not represent any company, country, or i
 
 **Visualization**: Create visual reports to present findings.
 
-**Presentatio**n: Compile findings into a comprehensive report or dashboard.
+**Presentation**: Compile findings into a comprehensive report or dashboard.
 
 ## Problem Statements
 **Top-Selling Artists**: Identify artists with the highest sales and analyze their sales trends over time.
@@ -43,7 +43,7 @@ Chinook database is structured as a relational database containing information a
 
 ![](DM.PNG)
 ---
-Key Tables Used in This Analysis
+**Key Tables Used in This Analysis**
 
 Artists - Contains details about artists names, including artis Id.
 
@@ -78,21 +78,21 @@ Employees – Includes information about employees, primarily used for analyzing
 
 3. Key Performance Metrics & DAX Measures 
 
-  Using DAX, Developed important KPI such 
-  as; Total Sales, Total No of Purchases, Average Purchase Value and Customer Lifetime Value estimation 
+  Using DAX, Developed important KPI such as; Total Sales, Total No of Purchases, Average Purchase Value and Customer Lifetime Value estimation 
   
   Created rankings and segmentations using DAX measures 
   
   Implemented Market Basket Analysis to find frequently purchased track combinations 
 
 4. Data Visualization & Reporting
+
   Built interactive dashboards in Power BI to present key insights dynamically.
   
   Designed charts  to showcase customer segments, genre popularity, and sales trends.
   
   Created a final report summarizing findings and actionable recommendations.
 
-  ![Sales Dashboard](Overview.PNG)
+  ![Sales Dashboard](Overview-1.PNG)
 
 ## Insights
 
