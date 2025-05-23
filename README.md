@@ -98,23 +98,25 @@ Employees – Includes information about employees, primarily used for analyzing
 
 - **_Top selling Artists_**
 
-The top 10 artists collectively generates the highest sales, amounting to $ and indicating strong customer preference for their music. Meanwhile, sales for lesser-known artists are significantly lower.
+The top 10 artists collectively generates the highest sales, amounting to $721.38 and indicating strong customer preference for their music. Meanwhile, sales for lesser-known artists are significantly lower.
 
 - **_Customer Purchase pattern_**
 
 The customer purchases indicate high value customers have highest average purchase value and contribute to approximately 23% of total sales, as shown in the image below.
 
+![Customer Purchase Segmentation](customer-segmentation-1.PNG)
+
 - **_Genre popularity_**
 
-The top 4 most popular genres include Rock, Latin, Metal and Alternative & Punk where Rock has consistently remained the best selling genre and Alternative & punk experience seasonal spike in sales during holiday season.
+The top 4 most popular genres include; Rock, Latin, Metal and Alternative & Punk where Rock has consistently remained the best selling genre and Alternative & punk experience seasonal spike in sales during holiday season.
 
 - **_Sales Trend_**
 
-Peak sales month occur in January with the highest sales recorded in 2010 at approximately $481 and lowest sales month occur in November of 2011. The analysis shows short term fluctuations but long term trend remains down downward indicating potential market challenges
+Peak sales month occured in January with the highest sales recorded in 2010 at approximately $481 and lowest sales month occured in November of 2011. The analysis shows short term fluctuations but long term trend remains down downward indicating potential market challenges.
 
 - **_Customer Lifetime Value_**
 
-A large percentage of customers have a low CLV, indicating that many customers have an average purchase value lower than the overall average 
+A large percentage of customers have a low CLV of approximately $5.37, indicating that many customers have an average purchase value lower than the overall average of $5.62
 
 ## Recommendations
 
