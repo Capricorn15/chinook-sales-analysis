@@ -1,6 +1,6 @@
 # CHINOOK SALES ANALYSIS
 
-![](icon.PNG)
+![](images/icon.PNG)
 ---
 
 ## About 
@@ -41,7 +41,7 @@ Disclaimer: All Datasets and reports do not represent any company, country, or i
 ## Data Overview
 Chinook database is structured as a relational database containing information about customers, invoices, tracks, artists, albums,genres and employees.
 
-![](DM.PNG)
+![](images/DM.PNG)
 ---
 **Key Tables Used in This Analysis**
 
@@ -92,7 +92,7 @@ Employees – Includes information about employees, primarily used for analyzing
   
   Created a final report summarizing findings and actionable recommendations.
 
-  ![Sales Dashboard](Overview-1.PNG)
+  ![Sales Dashboard](images/overview-db.PNG)
 
 ## Insights
 
@@ -104,7 +104,7 @@ The top 10 artists collectively generates the highest sales, amounting to $721.3
 
 The customer purchases indicate high value customers have highest average purchase value and contribute to approximately 23% of total sales, as shown in the image below.
 
-![Customer Purchase Segmentation](customer-segmentation.PNG)
+![Customer Purchase Segmentation](images/page2-db.PNG)
 
 - **_Genre popularity_**
 
